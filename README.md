@@ -33,7 +33,7 @@ Emotions deeply impact mental well-being. This project uses **Artificial Intelli
 - **OpenCV**
 - **TensorFlow / Keras**
 - **NumPy & Pandas**
-- **FER2013 Emotion Dataset**
+- **Emotion Dataset**
 
 ---
 
