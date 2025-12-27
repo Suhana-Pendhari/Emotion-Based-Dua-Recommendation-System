@@ -1,69 +1,62 @@
-🌙 Emotion-Based Dua Recommendation System
+# 🌙 Emotion-Based Dua Recommendation System
 
-AI for Emotional Well-Being & Spiritual Support
+> *An AI-powered system that understands human emotions and recommends Islamic Duas for emotional comfort and spiritual guidance.*
 
-An AI-powered intelligent system that detects human emotions from facial expressions and recommends relevant Islamic Duas to provide emotional comfort, mindfulness, and spiritual guidance.
+---
 
-This project combines Artificial Intelligence + Computer Vision + Ethical AI, focusing on mental well-being through faith-based support.
+## 📌 Overview
+Emotions deeply impact mental well-being. This project uses **Artificial Intelligence and Computer Vision** to detect facial emotions and suggest **emotion-appropriate Duas**, promoting peace, positivity, and mindfulness through technology.
 
-✨ Key Highlights
+---
 
-✔️ Real-time emotion understanding using facial expressions
-✔️ Emotion-wise Islamic Dua recommendation
-✔️ Ethical, meaningful & socially impactful AI application
-✔️ Beginner-friendly and well-structured implementation
-✔️ Ideal for AI, HealthTech & FaithTech use cases
+## ✨ Key Features
+- 😊 Facial Emotion Detection using Deep Learning  
+- 🕌 Emotion-wise Islamic Dua Recommendation  
+- 🎯 Ethical & Purpose-Driven AI Application  
+- 🧠 Beginner-Friendly Code Structure  
 
-🧠 How It Works
+---
 
-The system analyzes facial expressions from an image or webcam
+## 😄 Supported Emotions
+| Emotion | Description |
+|-------|-------------|
+| 😊 Happy | Positive & joyful state |
+| 😢 Sad | Emotional distress |
+| 😠 Angry | High emotional intensity |
+| 😐 Neutral | Balanced emotion |
+| 😲 Surprise | Sudden emotional reaction |
 
-A deep learning model predicts the user’s emotional state
+---
 
-Based on the detected emotion, a relevant Dua is recommended
+## 🛠️ Tech Stack
+- **Python**
+- **OpenCV**
+- **TensorFlow / Keras**
+- **NumPy & Pandas**
+- **FER2013 Emotion Dataset**
 
-The user receives emotional and spiritual guidance instantly
+---
 
-😊 Supported Emotions
+## 🚀 How It Works
+1. Capture or load a facial image  
+2. Detect emotion using a trained deep learning model  
+3. Map detected emotion to a relevant Dua  
+4. Display Dua for emotional support  
 
-Happy
+---
 
-Sad
+## 🎯 Use Cases
+- Mental health & emotional well-being tools  
+- Faith-based AI systems  
+- Educational AI & ML projects  
+- Ethical AI research initiatives  
 
-Angry
+---
 
-Neutral
+## 🔮 Future Enhancements
+- 🎥 Real-time webcam emotion detection  
+- 📱 Web & Mobile app integration  
+- 🗣️ NLP-based Dua explanation  
+- 🌍 Multi-language support  
 
-Surprise
-
-🛠️ Technologies & Tools Used
-
-Python
-
-OpenCV – Image processing & face detection
-
-TensorFlow / Keras – Deep learning model
-
-NumPy & Pandas – Data handling
-
-Dataset – Emotion classification dataset
-
-🎯 Use Case
-
-This system helps users:
-
-Manage emotional stress
-
-Find spiritual comfort during difficult times
-
-Connect mental health support with faith-based guidance
-
-Promote ethical AI for emotional well-being
-
-🚀 Future Enhancements
-
-🔹 Real-time webcam-based emotion detection
-🔹 Mobile & Web application integration
-🔹 NLP-based Dua explanation & translation
-🔹 Multilingual support
-🔹 Personalized emotion tracking dashboard
+---
