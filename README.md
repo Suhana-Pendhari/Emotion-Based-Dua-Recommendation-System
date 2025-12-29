@@ -1,11 +1,11 @@
-# 🌙 Noor-e-Dua – Light of Supplication
+# 🌙 Noor-e-Dua – Peace in Every Emotion
 
 > *Finding peace through duas based on your emotions*
 
 ---
 
 ## 📌 Overview
-Emotions deeply impact mental well-being. **Noor-e-Dua – Light of Supplication** uses **Artificial Intelligence and Computer Vision** to detect facial emotions and suggest **emotion-appropriate Duas**, promoting peace, positivity, and mindfulness through technology.
+Emotions deeply impact mental well-being. **Noor-e-Dua – Peace in Every Emotion** uses **Artificial Intelligence and Computer Vision** to detect facial emotions and suggest **emotion-appropriate Duas**, promoting peace, positivity, and mindfulness through technology.
 
 ---
 
